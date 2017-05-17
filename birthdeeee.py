@@ -1,3 +1,7 @@
+#NAME:JJAGWE MARTIN BULEGA
+#REG NO.:16/U/295
+#STUDENT NUMBER:21600254
+#COURSE:BIOMEDICAL ENGINEERING
 # birthday-pygame
 a program that gets information from the user and generates his/her birthday information
 a=input('input your first name : ')
