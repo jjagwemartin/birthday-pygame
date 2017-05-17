@@ -3,7 +3,8 @@
 #STUDENT NUMBER:21600254
 #COURSE:BIOMEDICAL ENGINEERING
 # birthday-pygame
-a program that gets information from the user and generates his/her birthday information
+#a program that gets information from the user and generates his/her birthday information
+#this code is programed from python version 3.6.0
 a=input('input your first name : ')
 b=input('input your last name : ')
 c=input('when is your birth day (1-31)? : ')
